@@ -13,12 +13,12 @@ exports[`BookingCard > matches snapshot 1`] = `
         class="sc-iGgWBk losSXX"
       >
         <h3
-          class="sc-kAycey jkgdPq"
+          class="sc-kpDqfp fOdamq"
         >
           Jane Smith
         </h3>
         <span
-          class="sc-imWYAH hZCdae"
+          class="sc-dAlyuI fsdvpF"
         >
           Ocean Villa
         </span>
@@ -30,10 +30,10 @@ exports[`BookingCard > matches snapshot 1`] = `
       </span>
     </div>
     <div
-      class="sc-jXbUNf ilseJT"
+      class="sc-kAycey kJUvwG"
     >
       <div
-        class="sc-dhKdcy kdfdYw"
+        class="sc-imWYAH jxZJCu"
       >
         <svg
           aria-hidden="true"
@@ -66,20 +66,20 @@ exports[`BookingCard > matches snapshot 1`] = `
           />
         </svg>
         <div
-          class="sc-kpDqfp fKOUfO"
+          class="sc-jXbUNf jxaBBn"
         >
           <span>
             Jun 10, 2030
           </span>
           <span
-            class="sc-dAlyuI kIwozf"
+            class="sc-dhKdcy btgkxG"
           >
             Check-in
           </span>
         </div>
       </div>
       <div
-        class="sc-dhKdcy kdfdYw"
+        class="sc-imWYAH jxZJCu"
       >
         <svg
           aria-hidden="true"
@@ -112,13 +112,13 @@ exports[`BookingCard > matches snapshot 1`] = `
           />
         </svg>
         <div
-          class="sc-kpDqfp fKOUfO"
+          class="sc-jXbUNf jxaBBn"
         >
           <span>
             Jun 15, 2030
           </span>
           <span
-            class="sc-dAlyuI kIwozf"
+            class="sc-dhKdcy btgkxG"
           >
             Check-out · 
             5
@@ -127,7 +127,7 @@ exports[`BookingCard > matches snapshot 1`] = `
         </div>
       </div>
       <div
-        class="sc-dhKdcy kdfdYw"
+        class="sc-imWYAH jxZJCu"
       >
         <svg
           aria-hidden="true"
@@ -154,7 +154,7 @@ exports[`BookingCard > matches snapshot 1`] = `
           />
         </svg>
         <div
-          class="sc-kpDqfp fKOUfO"
+          class="sc-jXbUNf jxaBBn"
         >
           <span>
             jane@example.com
@@ -162,7 +162,7 @@ exports[`BookingCard > matches snapshot 1`] = `
         </div>
       </div>
       <div
-        class="sc-dhKdcy kdfdYw"
+        class="sc-imWYAH jxZJCu"
       >
         <svg
           aria-hidden="true"
@@ -193,7 +193,7 @@ exports[`BookingCard > matches snapshot 1`] = `
           />
         </svg>
         <div
-          class="sc-kpDqfp fKOUfO"
+          class="sc-jXbUNf jxaBBn"
         >
           <span>
             2
@@ -203,7 +203,7 @@ exports[`BookingCard > matches snapshot 1`] = `
         </div>
       </div>
       <div
-        class="sc-dhKdcy kdfdYw"
+        class="sc-imWYAH jxZJCu"
       >
         <svg
           aria-hidden="true"
@@ -229,14 +229,14 @@ exports[`BookingCard > matches snapshot 1`] = `
           />
         </svg>
         <div
-          class="sc-kpDqfp fKOUfO"
+          class="sc-jXbUNf jxaBBn"
         >
           <span>
             $
             2,250
           </span>
           <span
-            class="sc-dAlyuI kIwozf"
+            class="sc-dhKdcy btgkxG"
           >
             Total
           </span>

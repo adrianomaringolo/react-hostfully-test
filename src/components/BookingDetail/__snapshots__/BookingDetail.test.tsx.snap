@@ -3,21 +3,21 @@
 exports[`BookingDetail > matches snapshot 1`] = `
 <div>
   <div
-    class="sc-eqUAAB cNVJat"
+    class="sc-kAycey hUbpBG"
   >
     <div
-      class="sc-fqkvVO fgNCSX"
+      class="sc-imWYAH eLMMpf"
     >
       <h4
-        class="sc-dcJsrX gbeOHR"
+        class="sc-jXbUNf gnwudk"
       >
         Guest
       </h4>
       <div
-        class="sc-iGgWBk eIDaCy"
+        class="sc-eqUAAB fPieku"
       >
         <div
-          class="sc-gsFSXt eKqmay"
+          class="sc-fqkvVO dGycoU"
         >
           <svg
             aria-hidden="true"
@@ -49,15 +49,15 @@ exports[`BookingDetail > matches snapshot 1`] = `
           </svg>
         </div>
         <div
-          class="sc-kAycey ytBWL"
+          class="sc-dcJsrX gDOPMf"
         >
           <span
-            class="sc-imWYAH cJjjQE"
+            class="sc-iGgWBk eTIJuI"
           >
             Name
           </span>
           <span
-            class="sc-jXbUNf jRefNN"
+            class="sc-gsFSXt kkqqNx"
           >
             Jane Smith
           </span>
@@ -69,10 +69,10 @@ exports[`BookingDetail > matches snapshot 1`] = `
         </span>
       </div>
       <div
-        class="sc-iGgWBk eIDaCy"
+        class="sc-eqUAAB fPieku"
       >
         <div
-          class="sc-gsFSXt eKqmay"
+          class="sc-fqkvVO dGycoU"
         >
           <svg
             aria-hidden="true"
@@ -100,25 +100,25 @@ exports[`BookingDetail > matches snapshot 1`] = `
           </svg>
         </div>
         <div
-          class="sc-kAycey ytBWL"
+          class="sc-dcJsrX gDOPMf"
         >
           <span
-            class="sc-imWYAH cJjjQE"
+            class="sc-iGgWBk eTIJuI"
           >
             Email
           </span>
           <span
-            class="sc-jXbUNf jRefNN"
+            class="sc-gsFSXt kkqqNx"
           >
             jane@example.com
           </span>
         </div>
       </div>
       <div
-        class="sc-iGgWBk eIDaCy"
+        class="sc-eqUAAB fPieku"
       >
         <div
-          class="sc-gsFSXt eKqmay"
+          class="sc-fqkvVO dGycoU"
         >
           <svg
             aria-hidden="true"
@@ -150,15 +150,15 @@ exports[`BookingDetail > matches snapshot 1`] = `
           </svg>
         </div>
         <div
-          class="sc-kAycey ytBWL"
+          class="sc-dcJsrX gDOPMf"
         >
           <span
-            class="sc-imWYAH cJjjQE"
+            class="sc-iGgWBk eTIJuI"
           >
             Guests
           </span>
           <span
-            class="sc-jXbUNf jRefNN"
+            class="sc-gsFSXt kkqqNx"
           >
             2
              guest
@@ -168,18 +168,18 @@ exports[`BookingDetail > matches snapshot 1`] = `
       </div>
     </div>
     <div
-      class="sc-fqkvVO fgNCSX"
+      class="sc-imWYAH eLMMpf"
     >
       <h4
-        class="sc-dcJsrX gbeOHR"
+        class="sc-jXbUNf gnwudk"
       >
         Stay
       </h4>
       <div
-        class="sc-iGgWBk eIDaCy"
+        class="sc-eqUAAB fPieku"
       >
         <div
-          class="sc-gsFSXt eKqmay"
+          class="sc-fqkvVO dGycoU"
         >
           <svg
             aria-hidden="true"
@@ -203,15 +203,15 @@ exports[`BookingDetail > matches snapshot 1`] = `
           </svg>
         </div>
         <div
-          class="sc-kAycey ytBWL"
+          class="sc-dcJsrX gDOPMf"
         >
           <span
-            class="sc-imWYAH cJjjQE"
+            class="sc-iGgWBk eTIJuI"
           >
             Property
           </span>
           <span
-            class="sc-jXbUNf jRefNN"
+            class="sc-gsFSXt kkqqNx"
           >
             Oceanfront Villa
              — 
@@ -220,10 +220,10 @@ exports[`BookingDetail > matches snapshot 1`] = `
         </div>
       </div>
       <div
-        class="sc-iGgWBk eIDaCy"
+        class="sc-eqUAAB fPieku"
       >
         <div
-          class="sc-gsFSXt eKqmay"
+          class="sc-fqkvVO dGycoU"
         >
           <svg
             aria-hidden="true"
@@ -257,25 +257,25 @@ exports[`BookingDetail > matches snapshot 1`] = `
           </svg>
         </div>
         <div
-          class="sc-kAycey ytBWL"
+          class="sc-dcJsrX gDOPMf"
         >
           <span
-            class="sc-imWYAH cJjjQE"
+            class="sc-iGgWBk eTIJuI"
           >
             Check-in
           </span>
           <span
-            class="sc-jXbUNf jRefNN"
+            class="sc-gsFSXt kkqqNx"
           >
             Jun 10, 2030
           </span>
         </div>
       </div>
       <div
-        class="sc-iGgWBk eIDaCy"
+        class="sc-eqUAAB fPieku"
       >
         <div
-          class="sc-gsFSXt eKqmay"
+          class="sc-fqkvVO dGycoU"
         >
           <svg
             aria-hidden="true"
@@ -309,17 +309,17 @@ exports[`BookingDetail > matches snapshot 1`] = `
           </svg>
         </div>
         <div
-          class="sc-kAycey ytBWL"
+          class="sc-dcJsrX gDOPMf"
         >
           <span
-            class="sc-imWYAH cJjjQE"
+            class="sc-iGgWBk eTIJuI"
           >
             Check-out (
             5
              nights)
           </span>
           <span
-            class="sc-jXbUNf jRefNN"
+            class="sc-gsFSXt kkqqNx"
           >
             Jun 15, 2030
           </span>
@@ -327,18 +327,18 @@ exports[`BookingDetail > matches snapshot 1`] = `
       </div>
     </div>
     <div
-      class="sc-fqkvVO fgNCSX"
+      class="sc-imWYAH eLMMpf"
     >
       <h4
-        class="sc-dcJsrX gbeOHR"
+        class="sc-jXbUNf gnwudk"
       >
         Notes
       </h4>
       <div
-        class="sc-iGgWBk eIDaCy"
+        class="sc-eqUAAB fPieku"
       >
         <div
-          class="sc-gsFSXt eKqmay"
+          class="sc-fqkvVO dGycoU"
         >
           <svg
             aria-hidden="true"
@@ -371,10 +371,10 @@ exports[`BookingDetail > matches snapshot 1`] = `
           </svg>
         </div>
         <div
-          class="sc-kAycey ytBWL"
+          class="sc-dcJsrX gDOPMf"
         >
           <span
-            class="sc-jXbUNf jRefNN"
+            class="sc-gsFSXt kkqqNx"
           >
             Oceanview room preferred.
           </span>
@@ -400,18 +400,18 @@ exports[`BookingDetail > matches snapshot 1`] = `
       </span>
     </div>
     <div
-      class="sc-fqkvVO fgNCSX"
+      class="sc-imWYAH eLMMpf"
     >
       <h4
-        class="sc-dcJsrX gbeOHR"
+        class="sc-jXbUNf gnwudk"
       >
         Metadata
       </h4>
       <div
-        class="sc-iGgWBk eIDaCy"
+        class="sc-eqUAAB fPieku"
       >
         <div
-          class="sc-gsFSXt eKqmay"
+          class="sc-fqkvVO dGycoU"
         >
           <svg
             aria-hidden="true"
@@ -437,25 +437,25 @@ exports[`BookingDetail > matches snapshot 1`] = `
           </svg>
         </div>
         <div
-          class="sc-kAycey ytBWL"
+          class="sc-dcJsrX gDOPMf"
         >
           <span
-            class="sc-imWYAH cJjjQE"
+            class="sc-iGgWBk eTIJuI"
           >
             Created at
           </span>
           <span
-            class="sc-jXbUNf jRefNN"
+            class="sc-gsFSXt kkqqNx"
           >
             12/31/2023, 9:00:00 PM
           </span>
         </div>
       </div>
       <div
-        class="sc-iGgWBk eIDaCy"
+        class="sc-eqUAAB fPieku"
       >
         <div
-          class="sc-gsFSXt eKqmay"
+          class="sc-fqkvVO dGycoU"
         >
           <svg
             aria-hidden="true"
@@ -481,15 +481,15 @@ exports[`BookingDetail > matches snapshot 1`] = `
           </svg>
         </div>
         <div
-          class="sc-kAycey ytBWL"
+          class="sc-dcJsrX gDOPMf"
         >
           <span
-            class="sc-imWYAH cJjjQE"
+            class="sc-iGgWBk eTIJuI"
           >
             Last updated
           </span>
           <span
-            class="sc-jXbUNf jRefNN"
+            class="sc-gsFSXt kkqqNx"
           >
             1/1/2024, 9:00:00 PM
           </span>
