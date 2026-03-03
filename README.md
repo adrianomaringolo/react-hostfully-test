@@ -153,3 +153,8 @@ Full user flows verified in a real Chromium browser (`playwright/bookings.spec.t
 - Form validation errors
 - Search and property filter
 - Overlap prevention on submit
+
+### Screenshots
+
+![Desktop view](docs/screenshots/desktop.png)
+![Mobile view](docs/screenshots/mobile.png)
