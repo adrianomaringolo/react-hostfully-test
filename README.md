@@ -15,7 +15,7 @@ A property booking management system built as a technical assessment.
 | Styling         | Styled Components              |
 | Notifications   | react-hot-toast                |
 | Unit tests      | Vitest + React Testing Library |
-| E2E tests       | Cypress                        |
+| E2E tests       | Playwright                     |
 | Icons           | lucide-react                   |
 
 ## Getting Started
@@ -34,8 +34,8 @@ npm run dev             # Start dev server
 npm run build           # Type check + production build
 npm run test            # Run unit tests in watch mode
 npm run test:coverage   # Run tests with coverage report
-npm run cy:open         # Open Cypress interactive runner
-npm run cy:run          # Run Cypress headlessly
+npm run cy:open         # Open Playwright interactive UI
+npm run cy:run          # Run Playwright headlessly
 ```
 
 ## Architecture
@@ -145,9 +145,9 @@ Focus on the two most critical areas:
 - `BookingCard.test.tsx` — component tests covering rendering, interactions, and a snapshot test.
 - `Modal.test.tsx` — behavior tests for keyboard dismissal and aria attributes.
 
-**E2E tests (Cypress)**
+**E2E tests (Playwright)**
 
-Full user flows verified in a real browser:
+Full user flows verified in a real Chromium browser (`playwright/bookings.spec.ts`):
 
 - Create, view, edit, and delete bookings
 - Form validation errors
