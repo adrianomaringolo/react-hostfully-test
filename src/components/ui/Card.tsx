@@ -45,4 +45,5 @@ export const CardActions = styled.div`
   gap: ${theme.spacing.sm};
   border-top: 1px solid ${theme.colors.border};
   padding: ${theme.spacing.sm} ${theme.spacing.lg};
+  margin-top: auto;
 `;
