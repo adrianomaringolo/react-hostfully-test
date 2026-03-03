@@ -2,8 +2,6 @@ import { createGlobalStyle } from "styled-components";
 import { theme } from "./theme";
 
 export const GlobalStyles = createGlobalStyle`
-  @import url('https://fonts.googleapis.com/css2?family=Fraunces:wght@600;700&family=Plus+Jakarta+Sans:wght@400;500;600&display=swap');
-
   *, *::before, *::after {
     box-sizing: border-box;
     margin: 0;
