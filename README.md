@@ -49,19 +49,31 @@ src/
 │   │   ├── BookingCard.tsx         # Booking display card with inline delete confirm
 │   │   └── BookingCard.test.tsx    # Component + snapshot tests
 │   ├── BookingDetail/
-│   │   └── BookingDetail.tsx       # Read-only booking detail view
+│   │   ├── BookingDetail.tsx       # Read-only booking detail view
+│   │   └── BookingDetail.test.tsx  # Component + snapshot tests
 │   ├── BookingForm/
-│   │   └── BookingForm.tsx         # Unified create/edit form
+│   │   ├── BookingForm.tsx         # Unified create/edit form
+│   │   └── BookingForm.test.tsx    # Validation and submission tests
 │   └── ui/
 │       ├── Button.tsx              # Base button with variants
+│       ├── Card.tsx                # Card container primitives (CoverImage, CardHeader…)
+│       ├── Detail.tsx              # Booking detail layout primitives
+│       ├── Empty.tsx               # Empty state layout
 │       ├── Field.tsx               # Form field primitives
+│       ├── Form.tsx                # Form layout primitives
+│       ├── Header.tsx              # App header primitives
+│       ├── Info.tsx                # Info grid primitives (InfoGrid, InfoItem…)
 │       ├── Modal.tsx               # Accessible modal dialog
 │       ├── Modal.test.tsx          # Modal behavior tests
+│       ├── Page.tsx                # Page layout primitives
+│       ├── Price.tsx               # Price display primitives
+│       ├── Search.tsx              # Search input primitives
 │       └── StatusBadge.tsx         # Booking status indicator
 ├── context/
 │   └── ModalContext.tsx            # Global modal UI state
 ├── hooks/
 │   ├── useBookings.ts              # CRUD operations + toast feedback
+│   ├── useDebounce.ts              # Generic debounce hook
 │   ├── useOverlapValidation.ts     # Date overlap detection for the form
 │   └── useProperties.ts           # Property state access
 ├── store/
@@ -70,6 +82,8 @@ src/
 ├── styles/
 │   ├── GlobalStyles.ts             # Global CSS reset and base styles
 │   └── theme.ts                    # Design tokens
+├── test/
+│   └── setup.ts                    # Vitest global setup (@testing-library/jest-dom)
 ├── types/
 │   └── index.ts                    # Shared TypeScript types
 └── utils/
