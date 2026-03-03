@@ -53,4 +53,8 @@ export const HeaderControls = styled.div`
     width: 100%;
     order: 3;
   }
+
+  @media (max-width: ${theme.breakpoints.sm}) {
+    flex-wrap: wrap;
+  }
 `;

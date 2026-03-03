@@ -13,6 +13,10 @@ export const SearchWrapper = styled.div`
     color: rgba(255, 255, 255, 0.4);
     pointer-events: none;
   }
+
+  @media (max-width: ${theme.breakpoints.sm}) {
+    width: 100%;
+  }
 `;
 
 export const SearchInput = styled.input`
